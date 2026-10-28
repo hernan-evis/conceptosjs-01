@@ -15,14 +15,15 @@ const numero2 = parseInt(prompt('Ingresa el segundo numero')
 Sino/else {las lineas que quiero hacer si se cumple la condicion}*/
 
 console.log(isNaN(numero1))
+// operador logico NOT - !
 // !true = false
 // !false = true
-
-if (!isNaN(numero1)){
+/* Para preguntar si el contenido de la variable numero1 (Y) el contenido de la variable numero2 es un numero? */
+if (!isNaN(numero1) && !isNaN(numero2)){
     const resultado = numero1 + numero2
 console.log('El resultado es: ' + resultado)}
 
 else{console.log('No ingresaste un numero valido')}
 
-
+d
 //

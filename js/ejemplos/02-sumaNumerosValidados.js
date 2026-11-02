@@ -25,5 +25,5 @@ console.log('El resultado es: ' + resultado)}
 
 else{console.log('No ingresaste un numero valido')}
 
-d
+
 //

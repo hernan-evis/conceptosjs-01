@@ -4,4 +4,4 @@ Nota: Tener en cuenta la siguiente función: parseInt
 
 const numero1 = parseInt(prompt("Ingresa el primer numero"));
 const numero2 = parseInt(prompt("Ingresa el segundo numero"));
-document.write(numero1 + numero2);
+console.log(numero1 + numero2);

@@ -5,4 +5,4 @@ input: Coder
 Output: Hola Coder*/
 
 const usuario = prompt("Ingresa tu nombre de usuario");
-document.write("Hola " + usuario);
+console.log("Hola " + usuario);

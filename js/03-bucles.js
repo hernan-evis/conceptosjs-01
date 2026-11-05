@@ -36,7 +36,8 @@ do{
 }while(intentos <= 3)
 */
 
-// for funciona como un while
+// for funciona como un while pero todo anidado en una sola linea de codigo
+
 
 for(let bateria = 100; bateria >0; bateria--){
     console.log('Bateria restante :'+bateria)
